@@ -3237,11 +3237,11 @@ Home,0.27194444444444443,Petta,TH (Thailand),Movie,3,10,9,2019,Smart TVs
 Home,1.835,Andhadhun,TH (Thailand),Movie,13,9,9,2019,Smart TVs
 Home,0.18833333333333332,V for Vendetta,TH (Thailand),Movie,10,9,9,2019,Smart TVs
 Home,0.18888888888888888,Uyare,TH (Thailand),Movie,3,8,9,2019,Smart TVs
-Home,0.6177777777777778,Marvel's Jessica Jones,TH (Thailand),TV Show,15,17,8,2019,Smart TVs
-Home,0.8730555555555556,Marvel's Jessica Jones,TH (Thailand),TV Show,12,16,8,2019,Smart TVs
-Home,0.835,Marvel's Jessica Jones,TH (Thailand),TV Show,14,9,8,2019,Smart TVs
-Home,0.3641666666666667,Marvel's Jessica Jones,TH (Thailand),TV Show,15,7,8,2019,Smart TVs
-Home,0.4452777777777778,Marvel's Jessica Jones,TH (Thailand),TV Show,13,7,8,2019,Smart TVs
+Home,0.6177777777777778,Jessica Jones,TH (Thailand),TV Show,15,17,8,2019,Smart TVs
+Home,0.8730555555555556,Jessica Jones,TH (Thailand),TV Show,12,16,8,2019,Smart TVs
+Home,0.835,Jessica Jones,TH (Thailand),TV Show,14,9,8,2019,Smart TVs
+Home,0.3641666666666667,Jessica Jones,TH (Thailand),TV Show,15,7,8,2019,Smart TVs
+Home,0.4452777777777778,Jessica Jones,TH (Thailand),TV Show,13,7,8,2019,Smart TVs
 Home,0.7877777777777778,Stranger Things,TH (Thailand),TV Show,13,6,8,2019,Smart TVs
 Home,0.8213888888888888,Stranger Things,TH (Thailand),TV Show,12,6,8,2019,Smart TVs
 Home,0.1625,Super Deluxe,TH (Thailand),Movie,15,5,8,2019,Smart TVs
@@ -3864,7 +3864,7 @@ Home,0.3219444444444444,The Crown,TH (Thailand),TV Show,15,3,10,2017,Smart TVs
 Home,0.9969444444444444,The Crown,TH (Thailand),TV Show,14,3,10,2017,Smart TVs
 Home,0.2594444444444444,The Crown,TH (Thailand),TV Show,14,3,10,2017,Smart TVs
 Home,0.6613888888888889,The Crown,TH (Thailand),TV Show,12,28,9,2017,Smart TVs
-Home,0.10944444444444444,Marvel's Daredevil,TH (Thailand),TV Show,4,17,8,2017,Smart TVs
+Home,0.10944444444444444,Daredevil,TH (Thailand),TV Show,4,17,8,2017,Smart TVs
 Home,0.9425,Moms' Night Out,TH (Thailand),Movie,15,12,8,2017,Smart TVs
 Home,0.6577777777777778,Moms' Night Out,TH (Thailand),Movie,13,12,8,2017,Smart TVs
 Home,1.6144444444444443,Under Suspicion,TH (Thailand),Movie,11,12,8,2017,Smart TVs
@@ -7134,30 +7134,30 @@ Pranav,0.18194444444444444,Maniac,GB (United Kingdom),TV Show,16,31,10,2018,Web 
 Pranav,0.4425,Gangs of New York,GB (United Kingdom),Movie,2,30,10,2018,Apple Mobile Devices
 Pranav,0.10722222222222222,Gangs of New York,GB (United Kingdom),Movie,17,29,10,2018,Apple Mobile Devices
 Pranav,0.39055555555555554,Dallas Buyers Club,GB (United Kingdom),Movie,3,29,10,2018,Apple Mobile Devices
-Pranav,0.6566666666666666,Marvel's Daredevil,GB (United Kingdom),TV Show,17,28,10,2018,Apple Mobile Devices
-Pranav,0.15805555555555556,Marvel's Daredevil,GB (United Kingdom),TV Show,16,28,10,2018,Apple Mobile Devices
-Pranav,0.4647222222222222,Marvel's Daredevil,GB (United Kingdom),TV Show,3,28,10,2018,Apple Mobile Devices
-Pranav,0.38861111111111113,Marvel's Daredevil,GB (United Kingdom),TV Show,2,28,10,2018,Apple Mobile Devices
-Pranav,0.2772222222222222,Marvel's Daredevil,GB (United Kingdom),TV Show,2,28,10,2018,Apple Mobile Devices
-Pranav,0.2875,Marvel's Daredevil,GB (United Kingdom),TV Show,1,28,10,2018,Apple Mobile Devices
-Pranav,0.21027777777777779,Marvel's Daredevil,GB (United Kingdom),TV Show,22,27,10,2018,Apple Mobile Devices
-Pranav,0.7172222222222222,Marvel's Daredevil,GB (United Kingdom),TV Show,20,27,10,2018,Apple Mobile Devices
-Pranav,0.31166666666666665,Marvel's Daredevil,GB (United Kingdom),TV Show,20,27,10,2018,Apple Mobile Devices
-Pranav,0.5405555555555556,Marvel's Daredevil,GB (United Kingdom),TV Show,18,27,10,2018,Apple Mobile Devices
-Pranav,0.7888888888888889,Marvel's Daredevil,GB (United Kingdom),TV Show,15,27,10,2018,Apple Mobile Devices
-Pranav,0.2088888888888889,Marvel's Daredevil,GB (United Kingdom),TV Show,0,27,10,2018,Web Browsers
-Pranav,0.4438888888888889,Marvel's Daredevil,GB (United Kingdom),TV Show,17,26,10,2018,Web Browsers
-Pranav,0.5111111111111111,Marvel's Daredevil,GB (United Kingdom),TV Show,11,26,10,2018,Web Browsers
-Pranav,0.11361111111111111,Marvel's Daredevil,GB (United Kingdom),TV Show,23,25,10,2018,Web Browsers
-Pranav,0.09027777777777778,Marvel's Daredevil,GB (United Kingdom),TV Show,21,25,10,2018,Web Browsers
-Pranav,0.7272222222222222,Marvel's Daredevil,GB (United Kingdom),TV Show,0,25,10,2018,Web Browsers
-Pranav,0.8413888888888889,Marvel's Daredevil,GB (United Kingdom),TV Show,17,24,10,2018,Web Browsers
-Pranav,0.4097222222222222,Marvel's Daredevil,GB (United Kingdom),TV Show,1,24,10,2018,Web Browsers
-Pranav,0.3575,Marvel's Daredevil,GB (United Kingdom),TV Show,17,23,10,2018,Web Browsers
-Pranav,0.5641666666666667,Marvel's Daredevil,GB (United Kingdom),TV Show,17,23,10,2018,Web Browsers
-Pranav,0.17722222222222223,Marvel's Daredevil,GB (United Kingdom),TV Show,13,23,10,2018,Web Browsers
-Pranav,0.4741666666666667,Marvel's Daredevil,GB (United Kingdom),TV Show,0,23,10,2018,Web Browsers
-Pranav,0.31972222222222224,Marvel's Daredevil,GB (United Kingdom),TV Show,16,22,10,2018,Web Browsers
+Pranav,0.6566666666666666,Daredevil,GB (United Kingdom),TV Show,17,28,10,2018,Apple Mobile Devices
+Pranav,0.15805555555555556,Daredevil,GB (United Kingdom),TV Show,16,28,10,2018,Apple Mobile Devices
+Pranav,0.4647222222222222,Daredevil,GB (United Kingdom),TV Show,3,28,10,2018,Apple Mobile Devices
+Pranav,0.38861111111111113,Daredevil,GB (United Kingdom),TV Show,2,28,10,2018,Apple Mobile Devices
+Pranav,0.2772222222222222,Daredevil,GB (United Kingdom),TV Show,2,28,10,2018,Apple Mobile Devices
+Pranav,0.2875,Daredevil,GB (United Kingdom),TV Show,1,28,10,2018,Apple Mobile Devices
+Pranav,0.21027777777777779,Daredevil,GB (United Kingdom),TV Show,22,27,10,2018,Apple Mobile Devices
+Pranav,0.7172222222222222,Daredevil,GB (United Kingdom),TV Show,20,27,10,2018,Apple Mobile Devices
+Pranav,0.31166666666666665,Daredevil,GB (United Kingdom),TV Show,20,27,10,2018,Apple Mobile Devices
+Pranav,0.5405555555555556,Daredevil,GB (United Kingdom),TV Show,18,27,10,2018,Apple Mobile Devices
+Pranav,0.7888888888888889,Daredevil,GB (United Kingdom),TV Show,15,27,10,2018,Apple Mobile Devices
+Pranav,0.2088888888888889,Daredevil,GB (United Kingdom),TV Show,0,27,10,2018,Web Browsers
+Pranav,0.4438888888888889,Daredevil,GB (United Kingdom),TV Show,17,26,10,2018,Web Browsers
+Pranav,0.5111111111111111,Daredevil,GB (United Kingdom),TV Show,11,26,10,2018,Web Browsers
+Pranav,0.11361111111111111,Daredevil,GB (United Kingdom),TV Show,23,25,10,2018,Web Browsers
+Pranav,0.09027777777777778,Daredevil,GB (United Kingdom),TV Show,21,25,10,2018,Web Browsers
+Pranav,0.7272222222222222,Daredevil,GB (United Kingdom),TV Show,0,25,10,2018,Web Browsers
+Pranav,0.8413888888888889,Daredevil,GB (United Kingdom),TV Show,17,24,10,2018,Web Browsers
+Pranav,0.4097222222222222,Daredevil,GB (United Kingdom),TV Show,1,24,10,2018,Web Browsers
+Pranav,0.3575,Daredevil,GB (United Kingdom),TV Show,17,23,10,2018,Web Browsers
+Pranav,0.5641666666666667,Daredevil,GB (United Kingdom),TV Show,17,23,10,2018,Web Browsers
+Pranav,0.17722222222222223,Daredevil,GB (United Kingdom),TV Show,13,23,10,2018,Web Browsers
+Pranav,0.4741666666666667,Daredevil,GB (United Kingdom),TV Show,0,23,10,2018,Web Browsers
+Pranav,0.31972222222222224,Daredevil,GB (United Kingdom),TV Show,16,22,10,2018,Web Browsers
 Pranav,0.9511111111111111,The Haunting of Hill House,GB (United Kingdom),TV Show,23,20,10,2018,Web Browsers
 Pranav,0.09972222222222223,The Haunting of Hill House,GB (United Kingdom),TV Show,22,20,10,2018,Web Browsers
 Pranav,0.8211111111111111,The Haunting of Hill House,GB (United Kingdom),TV Show,19,20,10,2018,Web Browsers
@@ -7884,14 +7884,14 @@ Pranav,1.2430555555555556,The Lord of the Rings,TH (Thailand),TV Show,12,27,8,20
 Pranav,0.3875,Rick and Morty,TH (Thailand),TV Show,9,25,8,2017,Web Browsers
 Pranav,0.5477777777777778,300,TH (Thailand),Movie,12,24,8,2017,Web Browsers
 Pranav,1.2597222222222222,300,TH (Thailand),Movie,15,23,8,2017,Web Browsers
-Pranav,0.8227777777777778,Marvel's The Defenders,TH (Thailand),TV Show,13,20,8,2017,Web Browsers
-Pranav,0.7105555555555556,Marvel's The Defenders,TH (Thailand),TV Show,12,20,8,2017,Web Browsers
-Pranav,0.8008333333333333,Marvel's The Defenders,TH (Thailand),TV Show,9,20,8,2017,Web Browsers
-Pranav,0.7916666666666666,Marvel's The Defenders,TH (Thailand),TV Show,16,19,8,2017,Web Browsers
-Pranav,0.6930555555555555,Marvel's The Defenders,TH (Thailand),TV Show,15,19,8,2017,Web Browsers
-Pranav,0.865,Marvel's The Defenders,TH (Thailand),TV Show,14,19,8,2017,Web Browsers
-Pranav,0.6905555555555556,Marvel's The Defenders,TH (Thailand),TV Show,14,19,8,2017,Web Browsers
-Pranav,0.8119444444444445,Marvel's The Defenders,TH (Thailand),TV Show,13,19,8,2017,Web Browsers
+Pranav,0.8227777777777778,The Defenders,TH (Thailand),TV Show,13,20,8,2017,Web Browsers
+Pranav,0.7105555555555556,The Defenders,TH (Thailand),TV Show,12,20,8,2017,Web Browsers
+Pranav,0.8008333333333333,The Defenders,TH (Thailand),TV Show,9,20,8,2017,Web Browsers
+Pranav,0.7916666666666666,The Defenders,TH (Thailand),TV Show,16,19,8,2017,Web Browsers
+Pranav,0.6930555555555555,The Defenders,TH (Thailand),TV Show,15,19,8,2017,Web Browsers
+Pranav,0.865,The Defenders,TH (Thailand),TV Show,14,19,8,2017,Web Browsers
+Pranav,0.6905555555555556,The Defenders,TH (Thailand),TV Show,14,19,8,2017,Web Browsers
+Pranav,0.8119444444444445,The Defenders,TH (Thailand),TV Show,13,19,8,2017,Web Browsers
 Pranav,0.1361111111111111,The Lord of the Rings,TH (Thailand),TV Show,14,18,8,2017,Web Browsers
 Pranav,0.3325,The Lord of the Rings,TH (Thailand),TV Show,7,18,8,2017,Web Browsers
 Pranav,0.19333333333333333,The Lord of the Rings,TH (Thailand),TV Show,15,17,8,2017,Web Browsers
@@ -8390,23 +8390,23 @@ Pranav,0.12416666666666666,Blue Mountain State,IN (India),TV Show,12,27,6,2016,W
 Pranav,0.22555555555555556,Blue Mountain State,IN (India),TV Show,8,27,6,2016,Web Browsers
 Pranav,0.3427777777777778,Blue Mountain State,IN (India),TV Show,18,26,6,2016,Web Browsers
 Pranav,0.3452777777777778,Blue Mountain State,IN (India),TV Show,18,26,6,2016,Web Browsers
-Pranav,0.19111111111111112,Marvel's Daredevil,IN (India),TV Show,17,26,6,2016,Web Browsers
-Pranav,0.1125,Marvel's Daredevil,IN (India),TV Show,17,26,6,2016,Web Browsers
+Pranav,0.19111111111111112,Daredevil,IN (India),TV Show,17,26,6,2016,Web Browsers
+Pranav,0.1125,Daredevil,IN (India),TV Show,17,26,6,2016,Web Browsers
 Pranav,0.3491666666666667,Blue Mountain State,IN (India),TV Show,11,26,6,2016,Web Browsers
 Pranav,0.19583333333333333,Blue Mountain State,IN (India),TV Show,11,26,6,2016,Web Browsers
 Pranav,0.10166666666666667,The Conjuring,IN (India),Movie,11,26,6,2016,Web Browsers
 Pranav,0.1597222222222222,Blue Mountain State,IN (India),TV Show,10,26,6,2016,Web Browsers
 Pranav,0.35,Blue Mountain State,IN (India),TV Show,9,26,6,2016,Web Browsers
-Pranav,0.15833333333333333,Marvel's Daredevil,IN (India),TV Show,6,26,6,2016,Web Browsers
+Pranav,0.15833333333333333,Daredevil,IN (India),TV Show,6,26,6,2016,Web Browsers
 Pranav,0.27,Blue Mountain State,IN (India),TV Show,18,25,6,2016,Web Browsers
-Pranav,0.4161111111111111,Marvel's Daredevil,IN (India),TV Show,18,25,6,2016,Web Browsers
-Pranav,0.8008333333333333,Marvel's Daredevil,IN (India),TV Show,17,25,6,2016,Web Browsers
+Pranav,0.4161111111111111,Daredevil,IN (India),TV Show,18,25,6,2016,Web Browsers
+Pranav,0.8008333333333333,Daredevil,IN (India),TV Show,17,25,6,2016,Web Browsers
 Pranav,0.3477777777777778,Blue Mountain State,IN (India),TV Show,17,25,6,2016,Web Browsers
 Pranav,0.3511111111111111,Blue Mountain State,IN (India),TV Show,9,25,6,2016,Web Browsers
 Pranav,0.345,Blue Mountain State,IN (India),TV Show,7,25,6,2016,Web Browsers
 Pranav,0.10194444444444445,Blue Mountain State,IN (India),TV Show,7,25,6,2016,Web Browsers
 Pranav,0.2477777777777778,Blue Mountain State,IN (India),TV Show,19,24,6,2016,Web Browsers
-Pranav,0.7677777777777778,Marvel's Daredevil,IN (India),TV Show,18,24,6,2016,Web Browsers
+Pranav,0.7677777777777778,Daredevil,IN (India),TV Show,18,24,6,2016,Web Browsers
 Pranav,0.24555555555555555,House of Cards,IN (India),TV Show,15,24,6,2016,Web Browsers
 Pranav,0.4225,House of Cards,IN (India),TV Show,12,24,6,2016,Web Browsers
 Pranav,0.4602777777777778,Orange Is the New Black,IN (India),TV Show,18,23,6,2016,Web Browsers
@@ -8417,7 +8417,7 @@ Pranav,0.9644444444444444,Orange Is the New Black,IN (India),TV Show,9,21,6,2016
 Pranav,0.9569444444444445,Orange Is the New Black,IN (India),TV Show,7,21,6,2016,Web Browsers
 Pranav,0.9075,Orange Is the New Black,IN (India),TV Show,20,20,6,2016,Web Browsers
 Pranav,0.9416666666666667,Orange Is the New Black,IN (India),TV Show,18,20,6,2016,Web Browsers
-Pranav,0.3497222222222222,Marvel's Daredevil,IN (India),TV Show,11,20,6,2016,Web Browsers
+Pranav,0.3497222222222222,Daredevil,IN (India),TV Show,11,20,6,2016,Web Browsers
 Pranav,0.8561111111111112,Orange Is the New Black,IN (India),TV Show,9,20,6,2016,Web Browsers
 Pranav,0.1375,House of Cards,IN (India),TV Show,9,20,6,2016,Web Browsers
 Pranav,0.3325,Orange Is the New Black,IN (India),TV Show,8,20,6,2016,Web Browsers
@@ -8432,9 +8432,9 @@ Pranav,0.6125,Orange Is the New Black,IN (India),TV Show,9,17,6,2016,Web Browser
 Pranav,0.8605555555555555,Orange Is the New Black,IN (India),TV Show,7,17,6,2016,Web Browsers
 Pranav,0.7763888888888889,House of Cards,IN (India),TV Show,6,17,6,2016,Web Browsers
 Pranav,0.7944444444444444,House of Cards,IN (India),TV Show,18,16,6,2016,Web Browsers
-Pranav,0.8447222222222223,Marvel's Daredevil,IN (India),TV Show,17,16,6,2016,Web Browsers
-Pranav,0.5038888888888889,Marvel's Daredevil,IN (India),TV Show,16,16,6,2016,Web Browsers
-Pranav,0.38083333333333336,Marvel's Daredevil,IN (India),TV Show,12,16,6,2016,Web Browsers
+Pranav,0.8447222222222223,Daredevil,IN (India),TV Show,17,16,6,2016,Web Browsers
+Pranav,0.5038888888888889,Daredevil,IN (India),TV Show,16,16,6,2016,Web Browsers
+Pranav,0.38083333333333336,Daredevil,IN (India),TV Show,12,16,6,2016,Web Browsers
 Pranav,0.7394444444444445,House of Cards,IN (India),TV Show,11,16,6,2016,Web Browsers
 Pranav,0.8352777777777778,House of Cards,IN (India),TV Show,10,16,6,2016,Web Browsers
 Pranav,0.7994444444444444,House of Cards,IN (India),TV Show,8,16,6,2016,Web Browsers
@@ -8461,28 +8461,28 @@ Pranav,0.09222222222222222,Better Call Saul,TH (Thailand),TV Show,10,15,4,2016,W
 Pranav,0.7652777777777777,Better Call Saul,TH (Thailand),TV Show,8,14,4,2016,Web Browsers
 Pranav,0.7116666666666667,Better Call Saul,TH (Thailand),TV Show,17,13,4,2016,Web Browsers
 Pranav,0.6933333333333334,Better Call Saul,TH (Thailand),TV Show,16,13,4,2016,Web Browsers
-Pranav,0.9261111111111111,Marvel's Daredevil,TH (Thailand),TV Show,6,12,4,2016,Web Browsers
-Pranav,0.4736111111111111,Marvel's Daredevil,TH (Thailand),TV Show,17,11,4,2016,Web Browsers
-Pranav,0.36277777777777775,Marvel's Daredevil,TH (Thailand),TV Show,10,11,4,2016,Web Browsers
-Pranav,0.29944444444444446,Marvel's Daredevil,TH (Thailand),TV Show,9,11,4,2016,Web Browsers
-Pranav,0.5833333333333334,Marvel's Daredevil,TH (Thailand),TV Show,6,11,4,2016,Web Browsers
-Pranav,0.85,Marvel's Daredevil,TH (Thailand),TV Show,5,11,4,2016,Web Browsers
-Pranav,0.6630555555555555,Marvel's Daredevil,TH (Thailand),TV Show,2,11,4,2016,Web Browsers
-Pranav,0.28,Marvel's Daredevil,TH (Thailand),TV Show,18,10,4,2016,Web Browsers
-Pranav,0.5705555555555556,Marvel's Daredevil,TH (Thailand),TV Show,10,10,4,2016,Web Browsers
-Pranav,0.1313888888888889,Marvel's Daredevil,TH (Thailand),TV Show,3,10,4,2016,Web Browsers
-Pranav,0.16722222222222222,Marvel's Daredevil,TH (Thailand),TV Show,13,9,4,2016,Web Browsers
-Pranav,0.9038888888888889,Marvel's Daredevil,TH (Thailand),TV Show,7,9,4,2016,Web Browsers
-Pranav,0.14972222222222223,Marvel's Daredevil,TH (Thailand),TV Show,3,9,4,2016,Web Browsers
-Pranav,0.14527777777777778,Marvel's Daredevil,TH (Thailand),TV Show,6,8,4,2016,Web Browsers
-Pranav,0.11694444444444445,Marvel's Daredevil,TH (Thailand),TV Show,4,8,4,2016,Web Browsers
-Pranav,0.4036111111111111,Marvel's Daredevil,TH (Thailand),TV Show,2,8,4,2016,Web Browsers
-Pranav,0.9061111111111111,Marvel's Daredevil,TH (Thailand),TV Show,9,5,4,2016,Web Browsers
-Pranav,0.6613888888888889,Marvel's Daredevil,TH (Thailand),TV Show,16,4,4,2016,Web Browsers
-Pranav,0.24388888888888888,Marvel's Daredevil,TH (Thailand),TV Show,16,3,4,2016,Web Browsers
-Pranav,0.7652777777777777,Marvel's Daredevil,TH (Thailand),TV Show,15,3,4,2016,Web Browsers
-Pranav,0.8033333333333333,Marvel's Daredevil,TH (Thailand),TV Show,11,3,4,2016,Web Browsers
-Pranav,0.7875,Marvel's Daredevil,TH (Thailand),TV Show,5,3,4,2016,Web Browsers
+Pranav,0.9261111111111111,Daredevil,TH (Thailand),TV Show,6,12,4,2016,Web Browsers
+Pranav,0.4736111111111111,Daredevil,TH (Thailand),TV Show,17,11,4,2016,Web Browsers
+Pranav,0.36277777777777775,Daredevil,TH (Thailand),TV Show,10,11,4,2016,Web Browsers
+Pranav,0.29944444444444446,Daredevil,TH (Thailand),TV Show,9,11,4,2016,Web Browsers
+Pranav,0.5833333333333334,Daredevil,TH (Thailand),TV Show,6,11,4,2016,Web Browsers
+Pranav,0.85,Daredevil,TH (Thailand),TV Show,5,11,4,2016,Web Browsers
+Pranav,0.6630555555555555,Daredevil,TH (Thailand),TV Show,2,11,4,2016,Web Browsers
+Pranav,0.28,Daredevil,TH (Thailand),TV Show,18,10,4,2016,Web Browsers
+Pranav,0.5705555555555556,Daredevil,TH (Thailand),TV Show,10,10,4,2016,Web Browsers
+Pranav,0.1313888888888889,Daredevil,TH (Thailand),TV Show,3,10,4,2016,Web Browsers
+Pranav,0.16722222222222222,Daredevil,TH (Thailand),TV Show,13,9,4,2016,Web Browsers
+Pranav,0.9038888888888889,Daredevil,TH (Thailand),TV Show,7,9,4,2016,Web Browsers
+Pranav,0.14972222222222223,Daredevil,TH (Thailand),TV Show,3,9,4,2016,Web Browsers
+Pranav,0.14527777777777778,Daredevil,TH (Thailand),TV Show,6,8,4,2016,Web Browsers
+Pranav,0.11694444444444445,Daredevil,TH (Thailand),TV Show,4,8,4,2016,Web Browsers
+Pranav,0.4036111111111111,Daredevil,TH (Thailand),TV Show,2,8,4,2016,Web Browsers
+Pranav,0.9061111111111111,Daredevil,TH (Thailand),TV Show,9,5,4,2016,Web Browsers
+Pranav,0.6613888888888889,Daredevil,TH (Thailand),TV Show,16,4,4,2016,Web Browsers
+Pranav,0.24388888888888888,Daredevil,TH (Thailand),TV Show,16,3,4,2016,Web Browsers
+Pranav,0.7652777777777777,Daredevil,TH (Thailand),TV Show,15,3,4,2016,Web Browsers
+Pranav,0.8033333333333333,Daredevil,TH (Thailand),TV Show,11,3,4,2016,Web Browsers
+Pranav,0.7875,Daredevil,TH (Thailand),TV Show,5,3,4,2016,Web Browsers
 Pranav,0.26305555555555554,Indiana Jones and the Raiders of the Lost Ark,TH (Thailand),Movie,9,26,2,2016,Smart TVs
 Pranav,0.7813888888888889,Better Call Saul,TH (Thailand),TV Show,9,23,2,2016,Smart TVs
 Pranav,0.5872222222222222,The Hangover,TH (Thailand),TV Show,3,21,2,2016,Web Browsers
