@@ -65,6 +65,7 @@ def merge_and_save(data_basic, data_rating, netflix_data, output_path):
             "Title_lower",
             "Title",
             "Type_x",
+            "Type_y",
             "Mapped_Type",
         ],
         axis=1,
